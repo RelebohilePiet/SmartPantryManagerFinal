@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#E8F5E9</color>
+    <color name="accent">#FF9800</color>
+    <color name="accent_light">#FFF3E0</color>
+    <color name="bg_app">#F4F6F8</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#5F6368</color>
+    <color name="expiry_normal">#E8F5E9</color>
+    <color name="expiry_normal_text">#2E7D32</color>
+    <color name="expiry_warning">#FFF3E0</color>
+    <color name="expiry_warning_text">#E65100</color>
+    <color name="expiry_danger">#FFEBEE</color>
+    <color name="expiry_danger_text">#C62828</color>
+</resources>
